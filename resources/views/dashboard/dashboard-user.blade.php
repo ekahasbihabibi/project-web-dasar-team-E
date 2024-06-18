@@ -231,7 +231,7 @@
                                     <div role="tabpanel" class="tab-pane fade" id="second">
                                         <img class="img-fluid" src="{{ asset('sipenmaru/images/brosur2.jpeg') }}" alt="">
                                     </div>
-                                    <div role="tabpanel" class="tab-pane fade" id="second">
+                                    <div role="tabpanel" class="tab-pane fade" id="third">
                                         <img class="img-fluid" src="{{ asset('sipenmaru/images/brosur3.jpeg') }}" alt="">
                                     </div>
                                 </div>
