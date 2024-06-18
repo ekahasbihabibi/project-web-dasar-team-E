@@ -4,7 +4,7 @@
     <ol class="breadcrumb">
         <li class="breadcrumb-item active" style="color: var(--primary)"><a href="dashboard"
                 style="color: var(--primary)">Beranda</a></li>
-        <li class="breadcrumb-item"><a href="javascript:void(0)">PMB UMSU</a></li>
+        <li class="breadcrumb-item"><a href="javascript:void(0)">BEBEHH TEAM</a></li>
     </ol>
 </div>
 <div class="row">
