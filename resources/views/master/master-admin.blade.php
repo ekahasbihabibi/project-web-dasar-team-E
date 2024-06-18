@@ -428,7 +428,7 @@
                 
 
                 <div class="copyright">
-                    <p><strong>SIPENMARU PEI </strong> ©
+                    <p><strong>SIPENMARU UMSU </strong> ©
                         <script>
                             document.write(new Date().getFullYear())
                         </script> All Rights Reserved</p>
